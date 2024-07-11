@@ -1,1 +1,24 @@
-test 
+[
+    "clojure-mode",
+    "codemirror-lang-elixir",
+    "codemirror-lang-golfscript",
+    "cm6-graphql",
+    "cm-lang-dot or @viz-js/lang-dot",
+    "@xiechao/codemirror-lang-handlebars",
+    "codemirror-lang-hcl",
+    "codemirror-lang-http",
+    "codemirror-lang-j",
+    "codemirror-lang-janet",
+    "codemirror-json-schema",
+    "@plutojl/lang-julia",
+    "codemirror-lang-liquid",
+    "@replit/codemirror-lang-nix",
+    "codemirror-lang-r",
+    "@replit/codemirror-lang-solidarity",
+    "codemirror-lang-sparql",
+    "@replit/codemirror-lang-svelte",
+    "codemirror-lang-wgsl",
+    "thememirror",
+    "@ddietr/codemirror-themes",
+    "@codemirror/theme-one-dark"
+]
